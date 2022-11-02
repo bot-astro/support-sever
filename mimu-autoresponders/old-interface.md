@@ -9,7 +9,7 @@ See the differences between the two interfaces in this image https://cdn.discord
 ```
 
 ```md
-/autoresponder editreply trigger:!oi reply:If the buttons of Astro don't work that is because you are using the old interface, you should **create the new one with `/interface create`**.
+/autoresponder add trigger:!oi reply:If the buttons of Astro don't work that is because you are using the old interface, you should **create the new one with `/interface create`**.
 
 *See the differences between the two interfaces in this image
 https://github.com/bot-astro/support-sever/raw/main/mimu-autoresponders/assets/old-interface.png *
